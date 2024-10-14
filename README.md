@@ -10,7 +10,7 @@ The dataset categorizes emotions into six classes:
 - surprise (5)  
 
 We will explore both a RNN and a Transformer by training models from both architectures on the same linguistic tasks:  
-We prepare the Twitter texts for **sentiment analysis** using Byte Pair Encoding (BPE). The data will be split into training, validation, and test sets. The RNN will feature bidirectional layers. The architecture of the transformer model will mostly follow the standard configuration.  
+We prepare the Twitter texts for **sentiment analysis** using Byte Pair Encoding (BPE). The data will be split into training, validation and test sets. The RNN will feature bidirectional layers. The architecture of the transformer model will mostly follow the standard configuration.  
 
 The two models will be trained in separate notebooks.
 
